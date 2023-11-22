@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, we are Exeat</h1>
-<h3 align="center">We are a team of fullstack developper based in France</h3>
+<h3 align="center">We are a team of fullstack developpers based in France</h3>
 
 - 🔭 We are currently working on our **main website**
 
