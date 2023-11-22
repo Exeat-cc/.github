@@ -55,6 +55,7 @@
 ### Web Servers :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/>
+  <img src="https://download.logo.wine/logo/Apache_HTTP_Server/Apache_HTTP_Server-Logo.wine.png" alt="Apache" width="50" height="50"/>
 </div>
 
 ### Other Tools :
